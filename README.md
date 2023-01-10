@@ -43,27 +43,27 @@ Tietokannaksi valittiin MongoDB, joka on avoimen lähteen dokumenttipohjainen No
 3. Käynnistä sovelluksen frontend komennolla npm start 'Client' kansion sisällä.
 4. Käynnistä sovelluksen backend komennolla npm run devStart 'Server' kansion sisällä.
 
-### Ketkä tekivät ja mikä oli kenenkin rooli
+## Ketkä tekivät ja mikä oli kenenkin rooli
 
-## Junnu Kyrö 
+### Junnu Kyrö 
 
 Datan käsittely, 2 kuvaajaa, kuvaajien datan nouto Clienttiin, luo uusi näkymä -toiminto, käyttäjän näkymä -sivu, CSS, backend, frontend testit 
 
 [Junnun GitHub](https://github.com/Jundeb)
 
-## Antti-Jussi Niku 
+### Antti-Jussi Niku 
 
 Datan käsittely, 3 kuvaajaa, Poista käyttäjä -toiminto, responsiivisuutta, backend aloitus, visualisointi kuvauksia ja kuvaajien datan noutoa Mongosta. 
 
 [Antti-Jussin GitHub](https://github.com/ArunJ0)
 
-## Anssi Rauhala 
+### Anssi Rauhala 
 
 Datan käsittely, 2 kuvaajaa, kirjaudu sisään, rekisteröidy ja poista näkymä -toiminto, backend, backend testit ja CSS
 
 [Anssin GitHub](https://github.com/luris123)
 
-## Santtu Tiitinen 
+### Santtu Tiitinen 
 
 Datan käsittely, UI alustus, responsiivisuus, Näkymät/Ulkoasu. 
 
