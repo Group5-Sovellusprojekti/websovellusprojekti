@@ -23,9 +23,6 @@ Backend toteutettiin myös Javascriptillä käyttäen Node.js ajoympäristöä, 
 
 Tietokannaksi valittiin MongoDB, joka on avoimen lähteen dokumenttipohjainen NoSQL tietokanta. Suurin syy MongoDB:n valinnalle oli sen yksinkertainen rakenne.
 
-## Ketkä tekivät ja mikä oli kenenkin rooli
--?-
-
 ## Arkkitehtuuri ja rakenne
 
 ### Sovelluksen rakenne
@@ -35,7 +32,7 @@ Tietokannaksi valittiin MongoDB, joka on avoimen lähteen dokumenttipohjainen No
 ![](Client/src/assets/Tietokanta1.png)
 
 ### Käyttöliittymäsuunnitelma
--kuva vai linkki tähän-
+[Linkki figmaan](https://www.figma.com/file/tXrYVw573jIBt49oBs0tLg/Group5?node-id=0%3A1&t=NB8srzJ8xAbh7eVx-1)
 
 ## Käyttöönotto
 
@@ -45,3 +42,29 @@ Tietokannaksi valittiin MongoDB, joka on avoimen lähteen dokumenttipohjainen No
 2. Siirry 'Client' kansioon ja asennna dependencyt komennolla 'npm install', tee sama 'Server' kansion sisällä.
 3. Käynnistä sovelluksen frontend komennolla npm start 'Client' kansion sisällä.
 4. Käynnistä sovelluksen backend komennolla npm run devStart 'Server' kansion sisällä.
+
+### Ketkä tekivät ja mikä oli kenenkin rooli
+
+## Junnu Kyrö 
+
+Datan käsittely, 2 kuvaajaa, kuvaajien datan nouto Clienttiin, luo uusi näkymä -toiminto, käyttäjän näkymä -sivu, CSS, backend, frontend testit 
+
+[Junnun GitHub](https://github.com/Jundeb)
+
+## Antti-Jussi Niku 
+
+Datan käsittely, 3 kuvaajaa, Poista käyttäjä -toiminto, responsiivisuutta, backend aloitus, visualisointi kuvauksia ja kuvaajien datan noutoa Mongosta. 
+
+[Antti-Jussin GitHub](https://github.com/ArunJ0)
+
+## Anssi Rauhala 
+
+Datan käsittely, 2 kuvaajaa, kirjaudu sisään, rekisteröidy ja poista näkymä -toiminto, backend, backend testit ja CSS
+
+[Anssin GitHub](https://github.com/luris123)
+
+## Santtu Tiitinen 
+
+Datan käsittely, UI alustus, responsiivisuus, Näkymät/Ulkoasu. 
+
+[Santun GitHub](https://github.com/santtutiitinen)
